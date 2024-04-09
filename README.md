@@ -1,2 +1,1 @@
-# SpeechQuality
-Advanced Audio Analysis Toolkit
+# SpeechQ
