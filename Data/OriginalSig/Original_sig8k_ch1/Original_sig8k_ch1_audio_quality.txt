@@ -1,0 +1,4 @@
+Noise Level: 0.00033345328521617684
+Volume: 0.0005474867573878994
+Confidence percentile 10: 0.798974
+Words per Minute: 87.42142059808472
