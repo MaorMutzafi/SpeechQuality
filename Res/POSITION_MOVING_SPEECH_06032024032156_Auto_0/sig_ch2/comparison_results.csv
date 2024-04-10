@@ -1,0 +1,41 @@
+Original Word,Adjusted Word,Conclusion,Original Time Slice,Processed Time Slice
+there,N/A,miss,"[0.66, 0.90]sec",N/A
+once,whoosh,wrong,"[0.90, 1.41]sec","[0.90, 1.44]sec"
+was,will,wrong,"[1.44, 1.68]sec","[1.44, 1.65]sec"
+a,be,wrong,"[1.68, 1.80]sec","[1.68, 1.83]sec"
+man,made,close,"[1.80, 2.22]sec","[1.80, 2.22]sec"
+from,during,wrong,"[2.31, 2.61]sec","[2.31, 2.54]sec"
+N/A,his,made up,N/A,"[2.54, 2.76]sec"
+spain,day,wrong,"[2.61, 3.18]sec","[2.61, 3.21]sec"
+who,N/A,miss,"[3.57, 3.75]sec",N/A
+N/A,who,made up,N/A,"[3.60, 3.78]sec"
+liked,liked,same,"[3.75, 4.23]sec","[3.75, 4.23]sec"
+to,to,same,"[4.26, 4.47]sec","[4.26, 4.47]sec"
+dance,dance,same,"[4.47, 4.95]sec","[4.47, 4.98]sec"
+in,in,same,"[5.01, 5.16]sec","[5.01, 5.19]sec"
+the,the,same,"[5.16, 5.34]sec","[5.16, 5.34]sec"
+rain,rain,same,"[5.34, 5.82]sec","[5.34, 5.85]sec"
+when,when,same,"[6.69, 7.05]sec","[6.69, 7.05]sec"
+offered,ultimate,wrong,"[7.11, 7.53]sec","[7.11, 7.53]sec"
+an,an,same,"[7.71, 7.92]sec","[7.71, 7.92]sec"
+umbrella,umbrella,same,"[7.92, 8.46]sec","[7.92, 8.43]sec"
+he,N/A,miss,"[8.91, 9.13]sec",N/A
+N/A,he,made up,N/A,"[8.94, 9.15]sec"
+said,said,same,"[9.13, 9.54]sec","[9.13, 9.48]sec"
+no,he'll,wrong,"[9.96, 10.17]sec","[9.96, 10.17]sec"
+way,wait,close,"[10.17, 10.50]sec","[10.17, 10.50]sec"
+fella,N/A,miss,"[10.50, 10.89]sec",N/A
+and,it,wrong,"[11.55, 11.70]sec","[11.55, 11.70]sec"
+was,was,same,"[11.70, 1.68]sec","[11.70, 11.94]sec"
+then,there,close,"[11.94, 12.24]sec","[11.94, 12.21]sec"
+washed,was,close,"[12.60, 12.87]sec","[12.60, 11.94]sec"
+down,N/A,miss,"[12.87, 13.29]sec",N/A
+the,betrayed,wrong,"[13.53, 5.34]sec","[13.53, 14.28]sec"
+drain,N/A,miss,"[13.71, 14.25]sec",N/A
+
+Total Scores,,,,
+Same,11,,,
+Close,4,,,
+Wrong,9,,,
+Made-up,3,,,
+Miss,6,,,
