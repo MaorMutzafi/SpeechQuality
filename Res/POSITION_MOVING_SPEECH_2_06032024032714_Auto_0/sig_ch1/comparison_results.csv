@@ -17,13 +17,13 @@ when,when,same,"[6.69, 7.05]sec","[6.69, 7.05]sec"
 offered,offered,same,"[7.11, 7.53]sec","[7.11, 7.50]sec"
 an,an,same,"[7.71, 7.92]sec","[7.71, 7.92]sec"
 umbrella,umbrella,same,"[7.92, 8.46]sec","[7.92, 8.43]sec"
-he,N/A,miss,"[8.91, 9.13]sec",N/A
-N/A,he,made up,N/A,"[8.94, 9.15]sec"
+he,he,same,"[8.91, 9.13]sec","[8.91, 9.15]sec"
 said,said,same,"[9.13, 9.54]sec","[9.13, 9.48]sec"
 no,no,same,"[9.96, 10.17]sec","[9.96, 10.17]sec"
 way,way,same,"[10.17, 10.50]sec","[10.17, 10.47]sec"
 fella,N/A,miss,"[10.50, 10.89]sec",N/A
 and,it,wrong,"[11.55, 11.70]sec","[11.55, 11.67]sec"
+was,was,same,"[11.70, 1.68]sec","[11.70, 1.68]sec"
 then,being,wrong,"[11.94, 12.24]sec","[11.94, 12.24]sec"
 washed,was,close,"[12.60, 12.87]sec","[12.60, 1.68]sec"
 down,done,close,"[12.87, 13.29]sec","[12.87, 13.26]sec"
@@ -31,8 +31,8 @@ the,betray,wrong,"[13.53, 5.34]sec","[13.53, 14.19]sec"
 drain,N/A,miss,"[13.71, 14.25]sec",N/A
 
 Total Scores,,,,
-Same,21,,,
+Same,23,,,
 Close,2,,,
 Wrong,3,,,
-Made-up,1,,,
-Miss,3,,,
+Made-up,0,,,
+Miss,2,,,
