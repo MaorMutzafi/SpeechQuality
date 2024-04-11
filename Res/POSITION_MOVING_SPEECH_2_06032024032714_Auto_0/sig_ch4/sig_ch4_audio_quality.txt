@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Noise Level: 9.037893301415412e-05
 Volume: 0.00030778015546852804
 Confidence percentile 10: 0.6423626
@@ -6,4 +7,14 @@ Same Word Score: 23
 Close Word Score: 2
 Wrong Word Score: 3
 Made-up Word Score: 0
+=======
+Noise Level: 9.037893301415412e-05
+Volume: 0.00030778015546852804
+Confidence percentile 10: 0.6423626
+Words per Minute: 37.89911690701386
+Same Word Score: 23
+Close Word Score: 2
+Wrong Word Score: 3
+Made-up Word Score: 0
+>>>>>>> speechquality/main
 Miss Word Score: 2
