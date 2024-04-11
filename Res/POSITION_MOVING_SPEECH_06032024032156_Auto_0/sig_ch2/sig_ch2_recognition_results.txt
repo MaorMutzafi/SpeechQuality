@@ -1,75 +1,45 @@
 {
     "result": [
         {
-            "conf": 0.89701,
-            "end": 109.525825,
-            "start": 109.178928,
-            "word": "a"
-        },
-        {
-            "conf": 0.387449,
-            "end": 111.12,
-            "start": 110.612175,
-            "word": "whoosh"
-        },
-        {
-            "conf": 0.998995,
-            "end": 111.33,
+            "conf": 1.0,
+            "end": 111.39,
             "start": 111.15,
-            "word": "will"
-        },
-        {
-            "conf": 0.991436,
-            "end": 111.51,
-            "start": 111.33,
-            "word": "be"
-        },
-        {
-            "conf": 0.651326,
-            "end": 111.9,
-            "start": 111.51,
-            "word": "made"
-        },
-        {
-            "conf": 0.782013,
-            "end": 112.235449,
-            "start": 112.019993,
-            "word": "from"
-        },
-        {
-            "conf": 0.36917,
-            "end": 112.303594,
-            "start": 112.235449,
-            "word": "the"
-        },
-        {
-            "conf": 0.480797,
-            "end": 112.89,
-            "start": 112.451001,
-            "word": "day"
+            "word": "with"
         },
         {
             "conf": 1.0,
-            "end": 113.46,
-            "start": 113.28,
-            "word": "who"
+            "end": 111.48,
+            "start": 111.39,
+            "word": "a"
+        },
+        {
+            "conf": 1.0,
+            "end": 112.89,
+            "start": 112.29,
+            "word": "stay"
+        },
+        {
+            "conf": 1.0,
+            "end": 113.49,
+            "start": 113.31,
+            "word": "in"
         },
         {
             "conf": 1.0,
             "end": 113.91,
-            "start": 113.46,
-            "word": "liked"
+            "start": 113.49,
+            "word": "light"
         },
         {
             "conf": 1.0,
-            "end": 114.18,
+            "end": 114.15,
             "start": 113.94,
             "word": "to"
         },
         {
             "conf": 1.0,
             "end": 114.66,
-            "start": 114.18,
+            "start": 114.15,
             "word": "dance"
         },
         {
@@ -86,7 +56,7 @@
         },
         {
             "conf": 1.0,
-            "end": 115.53,
+            "end": 115.47,
             "start": 115.02,
             "word": "rain"
         },
@@ -97,9 +67,9 @@
             "word": "when"
         },
         {
-            "conf": 0.878166,
-            "end": 117.209993,
-            "start": 116.819993,
+            "conf": 0.959606,
+            "end": 117.21,
+            "start": 116.82,
             "word": "ultimate"
         },
         {
@@ -151,19 +121,19 @@
             "word": "was"
         },
         {
-            "conf": 0.632794,
-            "end": 121.92,
+            "conf": 0.768663,
+            "end": 121.919993,
             "start": 121.62,
             "word": "then"
         },
         {
-            "conf": 1.0,
+            "conf": 0.997075,
             "end": 122.55,
             "start": 122.28,
             "word": "was"
         },
         {
-            "conf": 1.0,
+            "conf": 0.874455,
             "end": 123.96,
             "start": 123.21,
             "word": "betrayed"
@@ -199,15 +169,15 @@
             "word": "stay"
         },
         {
-            "conf": 0.583669,
-            "end": 135.023145,
-            "start": 134.85,
-            "word": "and"
+            "conf": 0.707523,
+            "end": 134.97,
+            "start": 134.82,
+            "word": "who"
         },
         {
-            "conf": 0.965856,
+            "conf": 1.0,
             "end": 135.45,
-            "start": 135.023145,
+            "start": 134.987549,
             "word": "liked"
         },
         {
@@ -241,13 +211,13 @@
             "word": "rain"
         },
         {
-            "conf": 0.916543,
-            "end": 138.24,
+            "conf": 0.832833,
+            "end": 138.27,
             "start": 137.91,
             "word": "when"
         },
         {
-            "conf": 0.974599,
+            "conf": 0.942943,
             "end": 138.72,
             "start": 138.33,
             "word": "offered"
@@ -267,7 +237,7 @@
         {
             "conf": 1.0,
             "end": 140.34,
-            "start": 140.13,
+            "start": 140.16,
             "word": "he"
         },
         {
@@ -279,55 +249,61 @@
         {
             "conf": 1.0,
             "end": 141.39,
-            "start": 141.18,
+            "start": 141.15,
             "word": "no"
         },
         {
-            "conf": 0.991789,
+            "conf": 0.992334,
             "end": 141.69,
             "start": 141.39,
             "word": "way"
         },
         {
-            "conf": 0.632801,
+            "conf": 0.51172,
+            "end": 142.05,
+            "start": 141.69,
+            "word": "so"
+        },
+        {
+            "conf": 0.672436,
             "end": 142.89,
             "start": 142.77,
             "word": "it"
         },
         {
             "conf": 1.0,
-            "end": 143.130293,
+            "end": 143.13,
             "start": 142.89,
             "word": "was"
         },
         {
-            "conf": 0.645691,
+            "conf": 0.532249,
             "end": 143.43,
-            "start": 143.130293,
+            "start": 143.13,
             "word": "been"
         },
         {
-            "conf": 0.682715,
-            "end": 144.088491,
+            "conf": 0.76338,
+            "end": 144.088521,
             "start": 143.79,
             "word": "forced"
         },
         {
-            "conf": 0.972905,
+            "conf": 1.0,
             "end": 144.69,
-            "start": 144.088491,
+            "start": 144.088521,
             "word": "down"
         },
         {
-            "conf": 0.972905,
-            "end": 144.92874,
+            "conf": 1.0,
+            "end": 144.93,
             "start": 144.75,
             "word": "the"
         },
         {
             "conf": 1.0,
             "end": 145.44,
-            "start": 144.92874,
+            "start": 144.93,
             "word": "drain"
         },
         {
@@ -367,16 +343,10 @@
             "word": "stay"
         },
         {
-            "conf": 0.584082,
-            "end": 156.537319,
-            "start": 156.36,
-            "word": "and"
-        },
-        {
-            "conf": 0.746223,
+            "conf": 0.723834,
             "end": 156.96,
-            "start": 156.537319,
-            "word": "liked"
+            "start": 156.51,
+            "word": "light"
         },
         {
             "conf": 1.0,
@@ -404,7 +374,7 @@
         },
         {
             "conf": 1.0,
-            "end": 158.58,
+            "end": 158.52,
             "start": 158.07,
             "word": "rain"
         },
@@ -445,21 +415,21 @@
             "word": "said"
         },
         {
-            "conf": 1.0,
-            "end": 162.9,
+            "conf": 0.953798,
+            "end": 162.900059,
             "start": 162.69,
             "word": "no"
         },
         {
-            "conf": 1.0,
+            "conf": 0.947829,
             "end": 163.2,
-            "start": 162.9,
+            "start": 162.900059,
             "word": "way"
         },
         {
-            "conf": 0.390264,
+            "conf": 0.493314,
             "end": 163.62,
-            "start": 163.2,
+            "start": 163.202812,
             "word": "felt"
         },
         {
@@ -475,21 +445,15 @@
             "word": "was"
         },
         {
-            "conf": 0.465708,
-            "end": 164.94,
-            "start": 164.67,
-            "word": "been"
-        },
-        {
-            "conf": 0.663778,
+            "conf": 0.555179,
             "end": 165.6,
             "start": 165.33,
             "word": "washed"
         },
         {
             "conf": 1.0,
-            "end": 165.99,
-            "start": 165.619907,
+            "end": 165.78,
+            "start": 165.616655,
             "word": "down"
         },
         {
@@ -505,55 +469,55 @@
             "word": "drain"
         },
         {
-            "conf": 1.0,
+            "conf": 0.856994,
             "end": 173.97,
             "start": 167.49,
             "word": "ah"
         },
         {
-            "conf": 0.920053,
-            "end": 175.14,
+            "conf": 0.556373,
+            "end": 175.11,
             "start": 174.87,
-            "word": "the"
+            "word": "they"
         },
         {
-            "conf": 0.920053,
+            "conf": 0.720321,
             "end": 175.62,
-            "start": 175.14,
-            "word": "ones"
+            "start": 175.116826,
+            "word": "once"
         },
         {
-            "conf": 0.920053,
+            "conf": 0.556373,
             "end": 175.83,
             "start": 175.68,
-            "word": "where"
+            "word": "were"
         },
         {
-            "conf": 0.920053,
+            "conf": 0.836051,
             "end": 176.04,
             "start": 175.83,
             "word": "they"
         },
         {
-            "conf": 0.898637,
+            "conf": 0.715845,
             "end": 176.43,
             "start": 176.04,
             "word": "may"
         },
         {
-            "conf": 0.720953,
+            "conf": 0.674608,
             "end": 177.42,
             "start": 176.97,
             "word": "day"
         },
         {
-            "conf": 0.953913,
+            "conf": 0.931421,
             "end": 177.99,
             "start": 177.81,
             "word": "who"
         },
         {
-            "conf": 0.862403,
+            "conf": 0.811176,
             "end": 178.44,
             "start": 177.99,
             "word": "liked"
@@ -589,19 +553,19 @@
             "word": "rain"
         },
         {
-            "conf": 0.895658,
+            "conf": 0.618022,
             "end": 181.23,
             "start": 180.93,
             "word": "when"
         },
         {
-            "conf": 0.598655,
+            "conf": 0.658172,
             "end": 181.77,
             "start": 181.35,
             "word": "authors"
         },
         {
-            "conf": 1.0,
+            "conf": 0.777907,
             "end": 182.25,
             "start": 181.92,
             "word": "didn't"
@@ -619,7 +583,7 @@
             "word": "he"
         },
         {
-            "conf": 0.566051,
+            "conf": 0.774669,
             "end": 183.72,
             "start": 183.36,
             "word": "said"
@@ -631,25 +595,25 @@
             "word": "nobody"
         },
         {
-            "conf": 0.990399,
+            "conf": 0.997334,
             "end": 185.07,
             "start": 184.77,
             "word": "felt"
         },
         {
-            "conf": 0.990399,
-            "end": 185.909897,
+            "conf": 0.997334,
+            "end": 185.909971,
             "start": 185.79,
             "word": "it"
         },
         {
             "conf": 1.0,
             "end": 186.15,
-            "start": 185.909897,
+            "start": 185.909971,
             "word": "was"
         },
         {
-            "conf": 0.869366,
+            "conf": 0.913068,
             "end": 186.45,
             "start": 186.15,
             "word": "being"
@@ -667,23 +631,23 @@
             "word": "done"
         },
         {
-            "conf": 0.948163,
+            "conf": 0.920398,
             "end": 188.34,
             "start": 187.77,
             "word": "betray"
         },
         {
-            "conf": 0.713022,
+            "conf": 0.844844,
             "end": 196.65,
             "start": 196.38,
             "word": "the"
         },
         {
-            "conf": 0.960335,
+            "conf": 0.988907,
             "end": 197.13,
             "start": 196.65,
             "word": "wounds"
         }
     ],
-    "text": "a whoosh will be made from the day who liked to dance in the rain when ultimate an umbrella he said he'll wait it was then was betrayed once more they may stay and liked to dance in the rain when offered an umbrella he said no way it was been forced down the drain once was a man from stay and liked to dance in the rain when offered an umbrella he said no way felt it was been washed down the drain ah the ones where they may day who liked to dance in the rain when authors didn't grow he said nobody felt it was being was done betray the wounds"
+    "text": "with a stay in light to dance in the rain when ultimate an umbrella he said he'll wait it was then was betrayed once more they may stay who liked to dance in the rain when offered an umbrella he said no way so it was been forced down the drain once was a man from stay light to dance in the rain when offered an umbrella he said no way felt it was washed down the drain ah they once were they may day who liked to dance in the rain when authors didn't grow he said nobody felt it was being was done betray the wounds"
 }

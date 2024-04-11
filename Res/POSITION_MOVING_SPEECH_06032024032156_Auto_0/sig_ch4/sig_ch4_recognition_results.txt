@@ -1,0 +1,665 @@
+{
+    "result": [
+        {
+            "conf": 0.424777,
+            "end": 110.602419,
+            "start": 110.34,
+            "word": "there"
+        },
+        {
+            "conf": 0.655293,
+            "end": 110.894004,
+            "start": 110.602419,
+            "word": "will"
+        },
+        {
+            "conf": 0.416299,
+            "end": 111.09,
+            "start": 110.917947,
+            "word": "be"
+        },
+        {
+            "conf": 1.0,
+            "end": 111.48,
+            "start": 111.39,
+            "word": "a"
+        },
+        {
+            "conf": 1.0,
+            "end": 111.988433,
+            "start": 111.48,
+            "word": "man"
+        },
+        {
+            "conf": 0.973889,
+            "end": 112.32,
+            "start": 111.99,
+            "word": "from"
+        },
+        {
+            "conf": 0.973889,
+            "end": 112.89,
+            "start": 112.32,
+            "word": "spain"
+        },
+        {
+            "conf": 1.0,
+            "end": 113.46,
+            "start": 113.28,
+            "word": "who"
+        },
+        {
+            "conf": 1.0,
+            "end": 113.91,
+            "start": 113.46,
+            "word": "liked"
+        },
+        {
+            "conf": 1.0,
+            "end": 114.18,
+            "start": 113.94,
+            "word": "to"
+        },
+        {
+            "conf": 1.0,
+            "end": 114.63,
+            "start": 114.18,
+            "word": "dance"
+        },
+        {
+            "conf": 1.0,
+            "end": 114.87,
+            "start": 114.69,
+            "word": "in"
+        },
+        {
+            "conf": 1.0,
+            "end": 115.02,
+            "start": 114.87,
+            "word": "the"
+        },
+        {
+            "conf": 1.0,
+            "end": 115.44,
+            "start": 115.02,
+            "word": "rain"
+        },
+        {
+            "conf": 1.0,
+            "end": 116.73,
+            "start": 116.37,
+            "word": "when"
+        },
+        {
+            "conf": 1.0,
+            "end": 117.21,
+            "start": 116.79,
+            "word": "offered"
+        },
+        {
+            "conf": 1.0,
+            "end": 117.6,
+            "start": 117.42,
+            "word": "an"
+        },
+        {
+            "conf": 1.0,
+            "end": 118.11,
+            "start": 117.6,
+            "word": "umbrella"
+        },
+        {
+            "conf": 1.0,
+            "end": 118.83,
+            "start": 118.62,
+            "word": "he"
+        },
+        {
+            "conf": 0.821733,
+            "end": 119.16,
+            "start": 118.83,
+            "word": "said"
+        },
+        {
+            "conf": 1.0,
+            "end": 120.18,
+            "start": 119.64,
+            "word": "nobody"
+        },
+        {
+            "conf": 0.500943,
+            "end": 120.57,
+            "start": 120.21,
+            "word": "felt"
+        },
+        {
+            "conf": 0.570674,
+            "end": 121.38,
+            "start": 121.23,
+            "word": "it"
+        },
+        {
+            "conf": 1.0,
+            "end": 121.62,
+            "start": 121.38,
+            "word": "was"
+        },
+        {
+            "conf": 0.388415,
+            "end": 121.89,
+            "start": 121.62,
+            "word": "been"
+        },
+        {
+            "conf": 0.435766,
+            "end": 122.549993,
+            "start": 122.309993,
+            "word": "was"
+        },
+        {
+            "conf": 1.0,
+            "end": 123.03,
+            "start": 122.566926,
+            "word": "down"
+        },
+        {
+            "conf": 1.0,
+            "end": 123.39,
+            "start": 123.21,
+            "word": "the"
+        },
+        {
+            "conf": 1.0,
+            "end": 123.75,
+            "start": 123.39,
+            "word": "drain"
+        },
+        {
+            "conf": 1.0,
+            "end": 132.63,
+            "start": 132.15,
+            "word": "once"
+        },
+        {
+            "conf": 1.0,
+            "end": 132.9,
+            "start": 132.66,
+            "word": "was"
+        },
+        {
+            "conf": 1.0,
+            "end": 133.02,
+            "start": 132.9,
+            "word": "a"
+        },
+        {
+            "conf": 1.0,
+            "end": 133.47,
+            "start": 133.02,
+            "word": "man"
+        },
+        {
+            "conf": 1.0,
+            "end": 133.83,
+            "start": 133.53,
+            "word": "from"
+        },
+        {
+            "conf": 0.91972,
+            "end": 134.43,
+            "start": 133.83,
+            "word": "spain"
+        },
+        {
+            "conf": 1.0,
+            "end": 135.0,
+            "start": 134.82,
+            "word": "who"
+        },
+        {
+            "conf": 1.0,
+            "end": 135.45,
+            "start": 135.0,
+            "word": "liked"
+        },
+        {
+            "conf": 1.0,
+            "end": 135.69,
+            "start": 135.48,
+            "word": "to"
+        },
+        {
+            "conf": 1.0,
+            "end": 136.17,
+            "start": 135.72,
+            "word": "dance"
+        },
+        {
+            "conf": 1.0,
+            "end": 136.38,
+            "start": 136.23,
+            "word": "in"
+        },
+        {
+            "conf": 1.0,
+            "end": 136.89,
+            "start": 136.38,
+            "word": "degree"
+        },
+        {
+            "conf": 1.0,
+            "end": 138.27,
+            "start": 137.91,
+            "word": "would"
+        },
+        {
+            "conf": 1.0,
+            "end": 138.66,
+            "start": 138.33,
+            "word": "open"
+        },
+        {
+            "conf": 1.0,
+            "end": 139.11,
+            "start": 138.93,
+            "word": "an"
+        },
+        {
+            "conf": 1.0,
+            "end": 139.62,
+            "start": 139.11,
+            "word": "umbrella"
+        },
+        {
+            "conf": 0.990449,
+            "end": 140.37,
+            "start": 140.16,
+            "word": "he"
+        },
+        {
+            "conf": 0.868536,
+            "end": 140.7,
+            "start": 140.37,
+            "word": "said"
+        },
+        {
+            "conf": 0.411156,
+            "end": 141.27,
+            "start": 141.18,
+            "word": "in"
+        },
+        {
+            "conf": 0.411156,
+            "end": 141.36,
+            "start": 141.27,
+            "word": "a"
+        },
+        {
+            "conf": 0.619696,
+            "end": 141.72,
+            "start": 141.370093,
+            "word": "way"
+        },
+        {
+            "conf": 1.0,
+            "end": 142.89,
+            "start": 142.77,
+            "word": "it"
+        },
+        {
+            "conf": 1.0,
+            "end": 143.13,
+            "start": 142.89,
+            "word": "was"
+        },
+        {
+            "conf": 0.975005,
+            "end": 143.4,
+            "start": 143.13,
+            "word": "they"
+        },
+        {
+            "conf": 0.86036,
+            "end": 143.994565,
+            "start": 143.82,
+            "word": "were"
+        },
+        {
+            "conf": 1.0,
+            "end": 145.47,
+            "start": 144.75,
+            "word": "betrayed"
+        },
+        {
+            "conf": 1.0,
+            "end": 154.17,
+            "start": 153.69,
+            "word": "once"
+        },
+        {
+            "conf": 1.0,
+            "end": 154.44,
+            "start": 154.2,
+            "word": "was"
+        },
+        {
+            "conf": 1.0,
+            "end": 154.53,
+            "start": 154.44,
+            "word": "a"
+        },
+        {
+            "conf": 1.0,
+            "end": 155.01,
+            "start": 154.56,
+            "word": "man"
+        },
+        {
+            "conf": 1.0,
+            "end": 155.338652,
+            "start": 155.04,
+            "word": "from"
+        },
+        {
+            "conf": 0.804751,
+            "end": 155.88,
+            "start": 155.34,
+            "word": "spain"
+        },
+        {
+            "conf": 1.0,
+            "end": 156.48,
+            "start": 156.33,
+            "word": "who"
+        },
+        {
+            "conf": 1.0,
+            "end": 156.96,
+            "start": 156.48,
+            "word": "liked"
+        },
+        {
+            "conf": 1.0,
+            "end": 157.2,
+            "start": 157.02,
+            "word": "to"
+        },
+        {
+            "conf": 1.0,
+            "end": 157.71,
+            "start": 157.23,
+            "word": "dance"
+        },
+        {
+            "conf": 1.0,
+            "end": 157.92,
+            "start": 157.77,
+            "word": "in"
+        },
+        {
+            "conf": 1.0,
+            "end": 158.07,
+            "start": 157.92,
+            "word": "the"
+        },
+        {
+            "conf": 1.0,
+            "end": 158.61,
+            "start": 158.07,
+            "word": "rain"
+        },
+        {
+            "conf": 1.0,
+            "end": 159.75,
+            "start": 159.42,
+            "word": "with"
+        },
+        {
+            "conf": 1.0,
+            "end": 160.65,
+            "start": 160.47,
+            "word": "an"
+        },
+        {
+            "conf": 1.0,
+            "end": 161.16,
+            "start": 160.65,
+            "word": "umbrella"
+        },
+        {
+            "conf": 0.560748,
+            "end": 162.21,
+            "start": 161.67,
+            "word": "jesus"
+        },
+        {
+            "conf": 0.774719,
+            "end": 162.9,
+            "start": 162.72,
+            "word": "knew"
+        },
+        {
+            "conf": 0.815173,
+            "end": 164.427876,
+            "start": 164.28,
+            "word": "it"
+        },
+        {
+            "conf": 1.0,
+            "end": 164.666367,
+            "start": 164.427876,
+            "word": "was"
+        },
+        {
+            "conf": 0.669245,
+            "end": 164.94,
+            "start": 164.67,
+            "word": "there"
+        },
+        {
+            "conf": 1.0,
+            "end": 165.6,
+            "start": 165.36,
+            "word": "was"
+        },
+        {
+            "conf": 0.904391,
+            "end": 165.99,
+            "start": 165.6,
+            "word": "done"
+        },
+        {
+            "conf": 0.977848,
+            "end": 166.95,
+            "start": 166.26,
+            "word": "betray"
+        },
+        {
+            "conf": 1.0,
+            "end": 173.97,
+            "start": 167.94,
+            "word": "ah"
+        },
+        {
+            "conf": 0.78509,
+            "end": 175.14,
+            "start": 174.87,
+            "word": "there"
+        },
+        {
+            "conf": 1.0,
+            "end": 175.65,
+            "start": 175.146445,
+            "word": "once"
+        },
+        {
+            "conf": 1.0,
+            "end": 175.92,
+            "start": 175.68,
+            "word": "was"
+        },
+        {
+            "conf": 1.0,
+            "end": 176.04,
+            "start": 175.92,
+            "word": "a"
+        },
+        {
+            "conf": 1.0,
+            "end": 176.519868,
+            "start": 176.04,
+            "word": "man"
+        },
+        {
+            "conf": 0.995584,
+            "end": 176.840317,
+            "start": 176.52,
+            "word": "from"
+        },
+        {
+            "conf": 0.58807,
+            "end": 177.36,
+            "start": 176.85,
+            "word": "spain"
+        },
+        {
+            "conf": 1.0,
+            "end": 177.99,
+            "start": 177.81,
+            "word": "who"
+        },
+        {
+            "conf": 1.0,
+            "end": 178.44,
+            "start": 177.99,
+            "word": "liked"
+        },
+        {
+            "conf": 1.0,
+            "end": 178.68,
+            "start": 178.5,
+            "word": "to"
+        },
+        {
+            "conf": 1.0,
+            "end": 179.19,
+            "start": 178.71,
+            "word": "dance"
+        },
+        {
+            "conf": 1.0,
+            "end": 179.4,
+            "start": 179.25,
+            "word": "in"
+        },
+        {
+            "conf": 1.0,
+            "end": 179.55,
+            "start": 179.4,
+            "word": "the"
+        },
+        {
+            "conf": 1.0,
+            "end": 179.88,
+            "start": 179.55,
+            "word": "rain"
+        },
+        {
+            "conf": 0.57728,
+            "end": 181.23,
+            "start": 180.9,
+            "word": "with"
+        },
+        {
+            "conf": 0.721949,
+            "end": 181.86,
+            "start": 181.32,
+            "word": "offers"
+        },
+        {
+            "conf": 0.90531,
+            "end": 182.13,
+            "start": 181.95,
+            "word": "an"
+        },
+        {
+            "conf": 0.934029,
+            "end": 182.67,
+            "start": 182.13,
+            "word": "umbrella"
+        },
+        {
+            "conf": 1.0,
+            "end": 183.36,
+            "start": 183.18,
+            "word": "he"
+        },
+        {
+            "conf": 0.575816,
+            "end": 183.72,
+            "start": 183.36,
+            "word": "said"
+        },
+        {
+            "conf": 1.0,
+            "end": 184.71,
+            "start": 184.17,
+            "word": "nobody"
+        },
+        {
+            "conf": 0.914439,
+            "end": 185.1,
+            "start": 184.77,
+            "word": "felt"
+        },
+        {
+            "conf": 0.986048,
+            "end": 185.91,
+            "start": 185.79,
+            "word": "it"
+        },
+        {
+            "conf": 1.0,
+            "end": 186.15,
+            "start": 185.91,
+            "word": "was"
+        },
+        {
+            "conf": 0.882567,
+            "end": 186.42,
+            "start": 186.15,
+            "word": "then"
+        },
+        {
+            "conf": 1.0,
+            "end": 187.08,
+            "start": 186.81,
+            "word": "was"
+        },
+        {
+            "conf": 0.706041,
+            "end": 187.5,
+            "start": 187.08,
+            "word": "done"
+        },
+        {
+            "conf": 0.98787,
+            "end": 188.43,
+            "start": 187.77,
+            "word": "betray"
+        },
+        {
+            "conf": 0.979529,
+            "end": 196.65,
+            "start": 196.38,
+            "word": "the"
+        },
+        {
+            "conf": 0.875492,
+            "end": 197.13,
+            "start": 196.65,
+            "word": "wounds"
+        }
+    ],
+    "text": "there will be a man from spain who liked to dance in the rain when offered an umbrella he said nobody felt it was been was down the drain once was a man from spain who liked to dance in degree would open an umbrella he said in a way it was they were betrayed once was a man from spain who liked to dance in the rain with an umbrella jesus knew it was there was done betray ah there once was a man from spain who liked to dance in the rain with offers an umbrella he said nobody felt it was then was done betray the wounds"
+}

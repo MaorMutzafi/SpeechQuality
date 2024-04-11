@@ -19,9 +19,9 @@ def process_folders(root_path, model_path, original_results_file):
     res_base_folder = os.path.join(root_path, "Res")
     if not os.path.exists(res_base_folder):
         os.makedirs(res_base_folder)
-    for subdir, dirs, files in os.walk(root_path):
-        # if "POSITION_MOVING_SPEECH_06032024032156_Auto_0" not in subdir:
-        #     continue
+    for subdir, dirs, files in os.walk(os.path.join(root_path, "Data")):
+        if "POSITION_MOVING_SPEECH_06032024032156_Auto_0" not in subdir and "POSITION_MOVING_SPEECH_2_06032024032714_Auto_0" not in subdir and "POSITION_MOVING_SPEECH_3_06032024040137_Auto_0" not in subdir:
+            continue
         if 'Data' in subdir:
             res_folder = os.path.join(res_base_folder, os.path.relpath(subdir, start=root_path).replace("Data" + os.sep, ""))
                         
