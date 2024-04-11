@@ -2,7 +2,7 @@ Original Word,Adjusted Word,Conclusion,Original Time Slice,Processed Time Slice
 there,N/A,miss,"[0.66, 0.90]sec",N/A
 once,N/A,miss,"[0.90, 1.41]sec",N/A
 was,N/A,miss,"[1.44, 1.68]sec",N/A
-a,ah,close,"[1.68, 1.80]sec","[1.68, 8.97]sec"
+a,ah,close,"[1.68, 1.80]sec","[1.68, 8.85]sec"
 man,N/A,miss,"[1.80, 2.22]sec",N/A
 from,N/A,miss,"[2.31, 2.61]sec",N/A
 spain,N/A,miss,"[2.61, 3.18]sec",N/A

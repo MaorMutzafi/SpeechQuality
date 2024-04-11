@@ -1,21 +1,9 @@
-<<<<<<< HEAD
-Noise Level: 5.47685720098762e-05
-Volume: 0.00023873452406362412
-Confidence percentile 10: 0.6541794
-Words per Minute: 34.26080168394053
-Same Word Score: 13
-Close Word Score: 4
+Noise Level: 5.619759888112476e-05
+Volume: 0.00024683016275139734
+Confidence percentile 10: 0.6473815
+Words per Minute: 34.56399461919664
+Same Word Score: 15
+Close Word Score: 3
 Wrong Word Score: 9
-Made-up Word Score: 1
+Made-up Word Score: 0
 Miss Word Score: 4
-=======
-Noise Level: 5.47685720098762e-05
-Volume: 0.00023873452406362412
-Confidence percentile 10: 0.6541794
-Words per Minute: 34.26080168394053
-Same Word Score: 11
-Close Word Score: 4
-Wrong Word Score: 9
-Made-up Word Score: 3
-Miss Word Score: 6
->>>>>>> speechquality/main

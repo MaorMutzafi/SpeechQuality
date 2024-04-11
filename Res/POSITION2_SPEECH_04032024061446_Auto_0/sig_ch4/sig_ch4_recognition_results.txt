@@ -1,17 +1,11 @@
 {
     "result": [
         {
-            "conf": 0.918758,
-            "end": 8.73,
+            "conf": 0.870718,
+            "end": 5.94,
             "start": 0.03,
             "word": "ah"
-        },
-        {
-            "conf": 0.363966,
-            "end": 11.94,
-            "start": 11.61,
-            "word": "no"
         }
     ],
-    "text": "ah no"
+    "text": "ah"
 }

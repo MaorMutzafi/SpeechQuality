@@ -1,9 +1,9 @@
-Noise Level: 0.0005890007713912337
-Volume: 0.0007418378596433784
-Confidence percentile 10: 0.764989
+Noise Level: 0.0006620439793133813
+Volume: 0.000643357769111025
+Confidence percentile 10: 0.819288
 Words per Minute: 2.0698909381602237
 Same Word Score: 0
 Close Word Score: 0
-Wrong Word Score: 0
+Wrong Word Score: 1
 Made-up Word Score: 0
-Miss Word Score: 30
+Miss Word Score: 29

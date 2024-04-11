@@ -1,11 +1,3 @@
 {
-    "result": [
-        {
-            "conf": 0.790115,
-            "end": 28.32,
-            "start": 16.62,
-            "word": "ah"
-        }
-    ],
-    "text": "ah"
+    "text": ""
 }

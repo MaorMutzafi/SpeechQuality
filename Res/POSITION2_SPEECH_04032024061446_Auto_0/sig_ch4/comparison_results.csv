@@ -2,7 +2,7 @@ Original Word,Adjusted Word,Conclusion,Original Time Slice,Processed Time Slice
 there,N/A,miss,"[0.66, 0.90]sec",N/A
 once,N/A,miss,"[0.90, 1.41]sec",N/A
 was,N/A,miss,"[1.44, 1.68]sec",N/A
-a,ah,close,"[1.68, 1.80]sec","[1.68, 8.73]sec"
+a,ah,close,"[1.68, 1.80]sec","[1.68, 5.94]sec"
 man,N/A,miss,"[1.80, 2.22]sec",N/A
 from,N/A,miss,"[2.31, 2.61]sec",N/A
 spain,N/A,miss,"[2.61, 3.18]sec",N/A
@@ -22,7 +22,7 @@ said,N/A,miss,"[9.13, 9.54]sec",N/A
 no,N/A,miss,"[9.96, 10.17]sec",N/A
 way,N/A,miss,"[10.17, 10.50]sec",N/A
 fella,N/A,miss,"[10.50, 10.89]sec",N/A
-and,no,wrong,"[11.55, 11.70]sec","[11.55, 11.94]sec"
+and,N/A,miss,"[11.55, 11.70]sec",N/A
 was,N/A,miss,"[11.70, 1.68]sec",N/A
 then,N/A,miss,"[11.94, 12.24]sec",N/A
 washed,N/A,miss,"[12.60, 12.87]sec",N/A
@@ -33,6 +33,6 @@ drain,N/A,miss,"[13.71, 14.25]sec",N/A
 Total Scores,,,,
 Same,0,,,
 Close,1,,,
-Wrong,1,,,
+Wrong,0,,,
 Made-up,0,,,
-Miss,28,,,
+Miss,29,,,

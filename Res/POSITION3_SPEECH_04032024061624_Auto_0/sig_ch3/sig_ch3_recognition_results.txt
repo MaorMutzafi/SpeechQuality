@@ -2,7 +2,7 @@
     "result": [
         {
             "conf": 1.0,
-            "end": 21.3,
+            "end": 21.27,
             "start": 20.94,
             "word": "no"
         }
